@@ -1,12 +1,9 @@
-# Alarm-Clock-Python
+# Text Editor in Python
 
-A simple Command Line Interface alarm clock. 
+A simple Command Line Interface text editor. 
 
-Built using the below python libraries for proper time calculations, and playing Mp3 files automatically from python
+Built using the below python libraries for writing, reading, renaming, changing working directories. 
 
-1. time
-2. pygame
-3. mp3play
-4. playsound
-
-pygame, mp3play, playsound - Either of these can be used to play mp3 files directly from python. 
+1. os
+2. shutil
+3. sys
